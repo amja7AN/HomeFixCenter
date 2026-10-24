@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\HomeFixCenter\HomeFixCenter\bin\Debug\net8.0\HomeFixCenter.exe
+C:\Users\asus\Desktop\HomeFixCenter\HomeFixCenter\bin\Debug\net8.0\HomeFixCenter.deps.json
+C:\Users\asus\Desktop\HomeFixCenter\HomeFixCenter\bin\Debug\net8.0\HomeFixCenter.runtimeconfig.json
+C:\Users\asus\Desktop\HomeFixCenter\HomeFixCenter\bin\Debug\net8.0\HomeFixCenter.dll
+C:\Users\asus\Desktop\HomeFixCenter\HomeFixCenter\bin\Debug\net8.0\HomeFixCenter.pdb
+C:\Users\asus\Desktop\HomeFixCenter\HomeFixCenter\obj\Debug\net8.0\HomeFixCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\HomeFixCenter\HomeFixCenter\obj\Debug\net8.0\HomeFixCenter.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\HomeFixCenter\HomeFixCenter\obj\Debug\net8.0\HomeFixCenter.AssemblyInfo.cs
+C:\Users\asus\Desktop\HomeFixCenter\HomeFixCenter\obj\Debug\net8.0\HomeFixCenter.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\HomeFixCenter\HomeFixCenter\obj\Debug\net8.0\HomeFixCenter.dll
+C:\Users\asus\Desktop\HomeFixCenter\HomeFixCenter\obj\Debug\net8.0\refint\HomeFixCenter.dll
+C:\Users\asus\Desktop\HomeFixCenter\HomeFixCenter\obj\Debug\net8.0\HomeFixCenter.pdb
+C:\Users\asus\Desktop\HomeFixCenter\HomeFixCenter\obj\Debug\net8.0\HomeFixCenter.genruntimeconfig.cache
+C:\Users\asus\Desktop\HomeFixCenter\HomeFixCenter\obj\Debug\net8.0\ref\HomeFixCenter.dll

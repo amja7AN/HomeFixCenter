@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>HomeFixCenter</AssemblyName>
+    <RootNamespace>HomeFixCenter</RootNamespace>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <!-- إذا لم يكن الإصدار 8 مثبتا على الجهاز يعمل البرنامج على إصدار أحدث -->
+    <RollForward>LatestMajor</RollForward>
+  </PropertyGroup>
+
+</Project>
